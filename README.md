@@ -64,7 +64,7 @@ Este backend fornece as seguintes rotas:
 - `GET /api/hello`: Rota protegida que retorna uma saudação para o usuário autenticado.
 - `GET /api/user`: Rota protegida que retorna os detalhes do usuário autenticado.
 
-As rotas protegidas exigem um token de acesso válido, que deve ser passado no cabeçalho `Authorization` da solicitação. Certifique-se de incluir o token de acesso ao fazer solicitações para essas rotas.
+As rotas protegidas exigem um token de acesso válido, que deve ser passado no cabeçalho `Authorization` da solicitação.
 
 ## Como Usar
 
